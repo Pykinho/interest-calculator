@@ -1,2 +1,2 @@
 # interest-calculator
-Interest calculator
+Interest calculator in React
